@@ -1,4 +1,4 @@
-# todoey
+# Todo List app
 
 A new Flutter application.
 
